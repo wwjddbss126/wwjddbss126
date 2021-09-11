@@ -15,7 +15,7 @@
 ## 💻 BoJ
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=wwjddbss126)](https://solved.ac/wwjddbss126)
 
-🚩Goal: Siver, ~ 11/11
+🚩Goal: Siver3, ~ 11/11
 ## My Commits
 ![snake](https://github.com/wwjddbss126/wwjddbss126/blob/output/github-contribution-grid-snake.svg)
 <!--
